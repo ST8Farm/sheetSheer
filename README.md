@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Streamlit application for processing Excel transactions and a placeholder for a future Transaction Diff Checker feature.
+This is a Streamlit application for processing Excel transactions and a placeholder for a future Sheet Diff Checker feature.
 
 ## Setup
 

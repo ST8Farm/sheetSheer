@@ -21,7 +21,7 @@ def highlight_differences(df1, df2):
     return styles
 
 def transaction_diff_checker():
-    st.header("Transaction Diff Checker")
+    st.header("Sheet Diff Checker")
 
     col1, col2 = st.columns(2)
 

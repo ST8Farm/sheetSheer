@@ -4,3 +4,4 @@ Transaction_Model_7_25.xlsx
 app/__pycache__/transaction_diff_checker.cpython-311.pyc
 app/__pycache__/transaction_processor.cpython-311.pyc
 app/__pycache__/utils.cpython-311.pyc
+app/node_modules/
